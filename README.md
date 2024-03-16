@@ -1,2 +1,2 @@
 # HTML
-A code repo for HTML.
+A code repo for HTML Series.
